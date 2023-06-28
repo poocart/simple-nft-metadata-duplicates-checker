@@ -1,0 +1,13 @@
+{
+  "name": "simple-nft-metadata-duplicates-checker",
+  "version": "1.0.0",
+  "description": "This is a simple tool to check for duplicate NFT metadata.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "check": "node index.js"
+  },
+  "keywords": ["nft", "metadata", "duplicates"],
+  "author": "poocart",
+  "license": "MIT"
+}
